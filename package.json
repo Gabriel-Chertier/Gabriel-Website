@@ -1,0 +1,36 @@
+{
+    "name": "bdd",
+    "version": "1.0.0",
+    "main": "server.js",
+    "directories": {
+      "example": "examples"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodemon server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "à déterminer"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "à déterminer"
+    },
+    "homepage": "à determiner",
+    "dependencies": {
+      "body-parser": "^1.20.0",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.1",
+      "express-jsdoc-swagger": "^1.8.0",
+      "jsonwebtoken": "^8.5.1",
+      "nodemon": "^2.0.19",
+      "pg": "^8.7.3",
+      "swagger-jsdoc": "^6.2.4",
+      "swagger-ui-express": "^4.5.0"
+    },
+    "description": ""
+  }
+  

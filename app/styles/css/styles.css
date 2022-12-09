@@ -1,0 +1,20 @@
+.header-container {
+    width: 90%;
+    border: 1px solid #f0f;
+    margin: 10px;
+}
+
+.main-container {
+    width: 75%;
+    border: 1px solid #f0f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.footer-container {
+    width: 90%;
+    border: 1px solid #f0f;
+    margin: 10px;
+    text-align: center;
+}
